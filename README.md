@@ -24,7 +24,6 @@ In this project, we developed an autoencoder-based neural network that transform
 - OpenCV
 - NumPy
 - Matplotlib
-- Other dependencies listed in `requirements.txt`
 
 ### Installation
 
