@@ -35,7 +35,7 @@ In this project, we developed an autoencoder-based neural network that transform
 - **Model Weights**: The trained model weights are saved in the file `model_weights.h5`. You can load these weights to replicate the results or further fine-tune the model.
   
 - **Jupyter Notebook**: The file `Autoencoder.ipynb` contains the full training pipeline, including data preprocessing, model architecture, and training code. You can use this notebook to understand the model's workflow and experiment with different parameters.
-- **Model Dataset**: The Google Drive link to my Dataset for training the model is 
+- **Model Dataset**: The Google Drive link to my Dataset for training the model is https://drive.google.com/drive/folders/1Hypjs0IZU3dkxgqfHTrLQL2wSXKv5U3k?usp=drive_link
 
 # Model Architecture
 
