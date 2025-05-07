@@ -1,4 +1,4 @@
-# Grayscale to Color Image Conversion using Autoencoder
+# ChromaVAE
 
 This repository contains the implementation of an autoencoder model that converts grayscale images to color using self-supervised learning techniques. The model is designed to automatically colorize grayscale images with a focus on improving the vibrancy and accuracy of different colors.
 
